@@ -6,8 +6,17 @@
       <class name="runner.WebApp">
         <methods>
           <include name="After"/>
-          <include name="OutstationPage"/>
+          <include name="OnewayPage"/>
+          <include name="ContactPage"/>
+          <include name="HomepageLogin"/>
+          <include name="HomePage"/>
+          <include name="CorporatePage"/>
           <include name="flush"/>
+          <include name="AirportPage"/>
+          <include name="AboutPage"/>
+          <include name="OutstationPage"/>
+          <include name="LocalPage"/>
+          <include name="SignUp"/>
           <include name="Before"/>
         </methods>
       </class> <!-- runner.WebApp -->
